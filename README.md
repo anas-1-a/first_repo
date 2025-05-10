@@ -31,7 +31,7 @@ git checkout fbd8eab
 
 ## nzid lien alias
 ```bash
-git add remote origin <link>
+git add remote origin "link"
 ```
 
 ## push fi lien fi branch
