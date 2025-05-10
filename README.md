@@ -1,10 +1,10 @@
 ### git commands
 
-## rod ltousi git
+## rod ldousi git
 ```bash
 git init
 ```
-## choyf l'etat ta" libo
+## chouf l'etat ta3 repo
 ```bash
 git init
 ```
@@ -24,7 +24,17 @@ git commit -m "message ta3 letat ta3 lcode"
 ```bash
 git branch
 ```
-## immji lcheck point 
+## emchi lcheck point 
 ```bash
 git checkout fbd8eab
+```
+
+## nzid lien alias
+```bash
+git add remote origin "link"
+```
+
+## push fi lien fi branch
+```bash
+git push -u origin master
 ```
