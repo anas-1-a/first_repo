@@ -6,7 +6,7 @@ git init
 ```
 ## chouf l'etat ta3 repo
 ```bash
-git init
+git status
 ```
 ## zid lfichier lstage area
 ```bash
